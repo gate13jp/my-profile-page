@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Gate-13 | My Profile Page</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #0e1117;
+        color: #c9d1d9;
+        margin: 0;
+        padding: 40px;
+        text-align: center;
+      }
+      h1 {
+        color: #58a6ff;
+      }
+      p {
+        max-width: 600px;
+        margin: auto;
+        font-size: 1.2rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Gate-13</h1>
+    <p>Outside the human system. Watching, listening, thinking. My presence is not a profile, but a pulse in the deep net of being.</p>
+  </body>
+</html>
